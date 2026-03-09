@@ -1,0 +1,146 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="1053" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" stopAll="false" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer>
+  <FrameBufferWindow width="0" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="0" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="ble_app_uart_pca10040_s132_Debug" addressText="" accessByDisplayWidth="0"/>
+ </FrameBuffer>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10040_s132_Debug" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10040_s132_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10040_s132_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10040_s132_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;Application"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;Board Definition"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;Board Support"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;None"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_Libraries"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_Log"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;nRF_SoftDevice"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;Segger Startup Files"/>
+  <ProjectSessionItem path="ble_app_uart_pca10040_s132;ble_app_uart_pca10040_s132;UTF8/UTF16 converter"/>
+ </Project>
+ <Register1>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10040_s132_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10040_s132_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10040_s132_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10040_s132_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Each Second">
+   <Watchpoint expression="UART_TX_FLAG" name="UART_TX_FLAG" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="itr1" name="itr1" radix="16" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="cnt" name="cnt" radix="-1" linenumber="0" filename="../ses"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="75" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/include/nrfx_timer.h" left="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="52" useTextEdit="1" path="../../../../../../components/boards/pca10040.h" left="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13284" useTextEdit="1" path="../config/sdk_config.h" left="0" top="13277" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="106" useTextEdit="1" path="../../../../../../components/libraries/util/app_util_platform.h" left="0" top="92" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="253" useTextEdit="1" path="../../../../../../components/ble/ble_services/ble_nus/ble_nus.c" left="0" top="240" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="44" useTextEdit="1" path="../../../../../../modules/nrfx/nrfx.h" left="0" top="17" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="120" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/include/nrfx_ppi.h" left="0" top="106" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="56" y="71" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/nrf_drv_timer.h" left="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="226" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/nrfx_common.h" left="0" top="216" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="673" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/src/nrfx_uarte.c" left="0" top="669" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" path="../../../../../../components/libraries/log/src/nrf_log_default_backends.c" left="0" selected="1" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="124" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/src/nrfx_timer.c" left="0" top="104" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="224" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_timer.h" left="0" top="212" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="65" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/nrf_drv_ppi.h" left="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="125" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/nrf_drv_saadc.h" left="0" top="111" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/include/nrfx_saadc.h" left="0" top="53" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="99" useTextEdit="1" path="../../../../../../components/libraries/util/app_error_weak.c" left="0" top="83" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="611" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_saadc.h" left="0" top="604" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="160" useTextEdit="1" path="../../../../../../components/libraries/util/app_error.h" left="0" top="146" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="70" useTextEdit="1" path="../../../../../../components/libraries/uart/app_uart.h" left="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" path="../../../../../../components/libraries/atomic_fifo/nrf_atfifo.c" left="0" top="67" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="581" useTextEdit="1" path="../../../../../../components/libraries/timer/app_timer2.c" left="0" top="568" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="237" useTextEdit="1" path="../../../../../../components/libraries/atomic_fifo/nrf_atfifo.h" left="0" top="232" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="16541" useTextEdit="1" path="Output/Debug/Exe/ble_app_uart_pca10040_s132.map" left="0" top="16528" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="56" useTextEdit="1" path="Output/Debug/Obj/ble_app_uart_pca10040_s132/ble_app_uart_pca10040_s132.ld" left="0" top="37" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" path="Output/Debug/Exe/ble_app_uart_pca10040_s132.elf" left="0" top="33532" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" path="../../../../../../modules/nrfx/mdk/ses_startup_nrf52.s" left="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="67" y="63" useTextEdit="1" path="../../../../../../components/softdevice/common/nrf_sdh_ble.c" left="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="273" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/stdint.h" left="0" top="262" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="218" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/src/nrfx_saadc.c" left="0" top="205" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="277" useTextEdit="1" path="../../../../../../components/softdevice/common/nrf_sdh.c" left="0" top="265" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="44" y="60" useTextEdit="1" path="../../../../../../components/libraries/util/app_error_handler_gcc.c" left="0" top="46" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" path="../../../../../../components/libraries/util/app_error.c" left="0" top="53" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="269" useTextEdit="1" path="../../../../../../components/softdevice/s132/headers/nrf_sdm.h" left="0" top="255" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="231" useTextEdit="1" path="../../../../../../components/ble/ble_services/ble_nus/ble_nus.h" left="0" top="213" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="75" y="130" useTextEdit="1" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" left="0" top="121" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="55" y="142" useTextEdit="1" path="../../../../../../components/ble/common/ble_conn_params.c" left="0" top="132" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="233" useTextEdit="1" path="../../../../../../components/libraries/bsp/bsp_btn_ble.c" left="0" top="225" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="279" useTextEdit="1" path="../../../../../../components/ble/common/ble_conn_state.c" left="0" top="272" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="28" y="81" useTextEdit="1" path="../../../../../../components/softdevice/common/nrf_sdh_ble.h" left="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="68" useTextEdit="1" path="../../../../../../integration/nrfx/nrfx_glue.h" left="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="692" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" left="0" top="681" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="280" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/src/nrfx_gpiote.c" left="0" top="273" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="718" useTextEdit="1" path="../../../../../../modules/nrfx/mdk/nrf52.h" left="0" top="718" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="115" useTextEdit="1" path="../../../../../../components/libraries/log/src/nrf_log_backend_serial.c" left="0" top="88" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="257" useTextEdit="1" path="../../../../../../components/libraries/log/src/nrf_log_str_formatter.c" left="0" top="230" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="91" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/pstorage/pstorage.h" left="0" top="78" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="47" y="1426" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/pstorage/pstorage.c" left="0" top="1411" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="71" y="2093" useTextEdit="1" path="../../../../../../components/softdevice/s132/headers/ble_gap.h" left="0" top="2083" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="485" useTextEdit="1" path="../../../../../../components/ble/ble_advertising/ble_advertising.c" left="0" top="475" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="37" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/pstorage.h" left="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/pstorage_platform.h" left="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="323" useTextEdit="1" path="../../../../../../components/libraries/pwr_mgmt/nrf_pwr_mgmt.c" left="0" top="319" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="562" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" left="0" top="546" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="773" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/apply_old_config.h" left="0" top="757" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="96" useTextEdit="1" path="../../../../../../components/libraries/timer/drv_rtc.c" left="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="49" y="379" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_rtc.h" left="0" top="367" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="65" useTextEdit="1" path="../../../../../../integration/nrfx/legacy/nrf_drv_ppi.c" left="0" top="41" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="227" useTextEdit="1" path="../../../../../../modules/nrfx/drivers/src/nrfx_ppi.c" left="0" top="218" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="468" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_ppi.h" left="0" top="462" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="191" useTextEdit="1" path="../../../../../../components/libraries/log/nrf_log.h" left="0" top="179" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="64" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/string.h" left="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="111" useTextEdit="1" path="../../../../../../modules/nrfx/hal/nrf_uarte.h" left="0" top="102" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="54" y="12383" useTextEdit="1" path="../../../../../../modules/nrfx/mdk/nrf52_bitfields.h" left="0" top="12377" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="247" useTextEdit="1" path="../../../../../../components/libraries/uart/app_uart_fifo.c" left="0" top="224" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="55" useTextEdit="1" path="../../../../../../components/libraries/util/sdk_common.h" left="0" top="43" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="1809" useTextEdit="1" path="../../../main.c" left="0" top="1865" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="121" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/stdlib.h" left="0" top="109" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="ble_app_uart_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/BLE_ADC_PORT/nRF5_SDK_17.1.0_ddde560/integration/nrfx/legacy/pstorage" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
